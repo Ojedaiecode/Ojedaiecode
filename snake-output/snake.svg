@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Animated snake SVG: simple moving segments along a path using stroke-dashoffset and a moving head -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120" role="img" aria-label="Animated snake">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <path id="route" d="M20 60 C 120 10, 240 110, 360 60 S 540 10, 580 60" />
+  </defs>
+
+  <!-- body: stroke with dasharray to create segments; animate dashoffset to simulate movement -->
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <use href="#route" stroke="url(#g)" stroke-width="14" stroke-linecap="round" stroke-dasharray="18 12" >
+      <animate attributeName="stroke-dashoffset" from="0" to="-30" dur="1.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- head: a circle that moves along the same path -->
+  <circle r="10" fill="#059669">
+    <animateMotion dur="1.2s" repeatCount="indefinite">
+      <mpath href="#route" />
+    </animateMotion>
+    <!-- subtle pulsate to look lively -->
+    <animate attributeName="r" values="9;11;9" dur="1.2s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- optional eyes on the head (small circles following head) -->
+  <g fill="#064e3b">
+    <circle r="1.6">
+      <animateMotion dur="1.2s" repeatCount="indefinite">
+        <mpath href="#route" />
+      </animateMotion>
+      <animate attributeName="r" values="1.6;1.6" dur="1.2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- path outline (transparent) kept for accessible hit area if needed -->
+  <use href="#route" fill="none" opacity="0" />
+</svg>
