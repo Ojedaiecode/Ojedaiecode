@@ -55,8 +55,3 @@
   <img src="https://streak-stats.demolab.com?user=Ojedaiecode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Ojedaiecode/Ojedaiecode/snake-output/snake.svg" alt="Snake animation" />
-
-###
