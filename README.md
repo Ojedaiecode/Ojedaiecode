@@ -1,101 +1,66 @@
-<div align="center">
+<h2 data-importer="text" align="center">👋 Olá, eu sou o Ojed!<br><br>Transformando ideias em realidade por meio da tecnologia.<br>Estudando, construindo e evoluindo projetos nas áreas de Inteligência Artificial, Automação, Sistemas Web e Arquitetura de Software.</h2>
 
- 👋 Olá, eu sou o Ojed!
+###
 
-### Transformando ideias em realidade por meio da tecnologia.
-
-**Agentes de IA • Automação • Sistemas Web • Arquitetura de Software • Inovação**
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
 </div>
 
----
+###
 
-## 👨🏽‍💻 Sobre mim
-
-Sou estudante de programação e criador do **Ojed AI & Code**.
-
-Este perfil registra minha evolução através de estudos, experimentos e projetos reais nas áreas de desenvolvimento web, inteligência artificial, automação e arquitetura de software.
-
-Atualmente, estou construindo conhecimento com foco em criar soluções organizadas, escaláveis e preparadas para evoluir ao longo do tempo.
-
----
-
-## 🚀 Atualmente estudando
-
-- Desenvolvimento Front-end
-- JavaScript e Node.js
-- Arquitetura e organização de projetos
-- Agentes de Inteligência Artificial
-- Automação de processos com n8n
-- Integrações, APIs e bancos de dados
-- Git, GitHub e versionamento de projetos
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
----
+###
 
-## 📌 Projetos em destaque
-
-### 🎬 Landing Page CINETVPLAY
-
-Landing page desenvolvida com HTML, CSS e JavaScript, criada para apresentar os serviços da CINETVPLAY com identidade visual própria, navegação responsiva e chamadas para ação.
-
-### 📚 Academia do Saber
-
-Projeto educacional voltado para cursos e materiais digitais, com planejamento de landing page, páginas de login e cadastro e futura integração com serviços de autenticação e banco de dados.
-
-### 🧩 Cadastro CTP
-
-Aplicação local desenvolvida para organizar clientes, testes, aplicativos, mensagens, servidores, faturas e outras informações utilizadas na operação da CINETVPLAY.
-
----
-
-## 🧠 Minha forma de construir
-
-```text
-Ideia
-  ↓
-Planejamento
-  ↓
-Arquitetura
-  ↓
-Desenvolvimento
-  ↓
-Revisão
-  ↓
-Evolução contínua
-```
-
-Acredito que todo projeto deve nascer com uma estrutura clara, documentação e espaço para crescer sem precisar ser reconstruído do zero.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ojedaiecode&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojedaiecode&layout=compact&hide_border=true&theme=github_dark" alt="Linguagens mais utilizadas" />
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Ojedaiecode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
----
+###
 
-## 🌱 Objetivo
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ojedaiecode/Ojedaiecode/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ojedaiecode/Ojedaiecode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ojedaiecode/Ojedaiecode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-Continuar aprendendo, documentando e transformando cada projeto concluído em conhecimento reutilizável para os próximos desafios.
-
-<div align="center">
-
-### 🚀 Construindo hoje o conhecimento que dará forma aos projetos de amanhã.
-
-</div>
+###
